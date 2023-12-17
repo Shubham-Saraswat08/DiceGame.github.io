@@ -182,7 +182,7 @@ main {
     margin: 0 2rem;
   }
   body {
-    height: 100%;
+    background-size: cover;
   }
   .player {
     padding: 9rem 0;
