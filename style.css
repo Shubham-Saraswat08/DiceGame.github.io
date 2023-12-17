@@ -181,6 +181,9 @@ main {
     height: 95vh;
     margin: 0 2rem;
   }
+  body {
+    height: 100%;
+  }
   .player {
     padding: 9rem 0;
     justify-content: center;
