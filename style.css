@@ -200,6 +200,12 @@ main {
     font-size: 1rem;
     padding: 1rem;
   }
+  .btn:active {
+    transform: scale(0.95) translateY(2px);
+  }
+  .btn:hover {
+    transform: scale(1.05) translateY(-2px);
+  }
   .btn--new {
     font-size: 1.2rem;
     top: 0.5rem;
