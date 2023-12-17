@@ -178,8 +178,11 @@ main {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(2, 50%);
-    height: 95vh;
+    height: 95dvh;
     margin: 0 2rem;
+  }
+  body {
+    height: 100dvh;
   }
   .player {
     padding: 9rem 0;
