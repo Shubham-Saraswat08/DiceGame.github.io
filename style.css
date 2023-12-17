@@ -15,7 +15,7 @@ html {
 body {
   font-family: 'Nunito', sans-serif;
   font-weight: 400;
-  height: 100vh;
+  height: 100dvh;
   color: #333;
   background-image: linear-gradient(to top left, #e2c044 0%, #4281a4 100%);
   display: flex;
@@ -180,9 +180,6 @@ main {
     grid-template-rows: repeat(2, 50%);
     height: 95vh;
     margin: 0 2rem;
-  }
-  body {
-    height: 100dvh;
   }
   .player {
     padding: 9rem 0;
