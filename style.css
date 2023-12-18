@@ -233,7 +233,7 @@ main {
     font-size: 2.5rem;
   }
 
-  @media screen and (max-width: 350px) and (min-width: 280px) {
+  @media screen and (max-width: 350px) {
     .player {
       padding: 0;
     }
@@ -258,7 +258,7 @@ main {
     }
     .btn {
       font-size: 0.8rem;
-      padding: 0.8rem;
+      padding: 0.4rem;
     }
     .dice {
       width: 4rem;
