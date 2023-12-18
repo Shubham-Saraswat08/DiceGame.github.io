@@ -205,13 +205,7 @@ main {
   }
   .btn--new {
     font-size: 1.2rem;
-    top: 0.5rem;
-  }
-  .dice {
-    top: 50%;
-    left: 50%;
-    width: 5rem;
-    height: 5rem;
+    top: 5%;
     transform: translate(-50%, -50%);
   }
   .btn--roll {
@@ -227,6 +221,13 @@ main {
   .btn::first-letter {
     font-size: 1.2rem;
     margin-right: 0.7rem;
+  }
+  .dice {
+    top: 50%;
+    left: 50%;
+    width: 5rem;
+    height: 5rem;
+    transform: translate(-50%, -50%);
   }
   .current {
     padding: 0.75rem;
